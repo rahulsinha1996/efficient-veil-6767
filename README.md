@@ -149,5 +149,5 @@ In this page, If you want to purchase the product, you need fill some details re
 
 ****deploy link***
 
-[project Deploy link of netify](https://jiomart-clone-project.netlify.app/)
+[project Deploy link of netify](https://jiomart-clone-project.netlify.app)
 
